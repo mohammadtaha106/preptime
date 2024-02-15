@@ -1,0 +1,27 @@
+.button_nav1{
+    width: 7.5rem;
+    height: 3rem;
+    border: 2px solid white;
+    color: white;
+    background-color: black;
+}
+.button_nav2{
+    width: 7.5rem;
+    height: 3rem;
+    border: none;
+    color: white;
+    background-color: red;
+}
+.navbar{
+    background-color: black!important;
+}
+.img_section_1{
+    background-color: white;
+    margin-left: 25px;
+}
+/* @media (max-width:995px) {
+    .img_section{
+    
+    }
+    
+} */
